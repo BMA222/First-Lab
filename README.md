@@ -1,5 +1,3 @@
-# First-Lab
-This is my portfolio
 <!DOCTYPE html>
 <html lang="en">
 <head>
